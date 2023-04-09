@@ -1,0 +1,2 @@
+py-cord==2.4.1
+py-dactyl==2.0.0
