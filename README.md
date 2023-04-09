@@ -18,7 +18,7 @@ Commands:
 Installation:
 1. Change the values in the config file.py on your own.
 2. In the file folder requirements.txt run `pip install -r requirements.txt `
-3. Launch the Bot using `python main.py `or `python 3 main.py `
+3. Launch the Bot using `python main.py `or `python3 main.py `
 
 In the future, it is planned to add more features and not be limited to 1 server for the bot.
 ## RUS
